@@ -1,0 +1,16 @@
+.btn, .in-new-item{
+    padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:5px;
+}
+
+.btn-add{
+    background-color:black;
+    color:white;
+}
+
+
+.new, .teste{
+    border:1px solid red;
+}
