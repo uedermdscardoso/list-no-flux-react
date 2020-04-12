@@ -4,6 +4,6 @@ This project was developed with React and back end with Java (using Spring Boot)
 
 ## Folders
 <ul>
-  <li>Front (using React</li>
-	<li>Server (using Java)</li>
+  <li>Services</li>
+  <li>Views / Components</li>
 </ul>
