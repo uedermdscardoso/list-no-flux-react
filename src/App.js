@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
+import { Container, Grid } from 'semantic-ui-react';
 import './App.css';
 
-import { ItemService } from './data/services/ItemService';
+import { ItemService } from './services/ItemService';
 import List from './views/components/List/List';
 import NewItem from './views/components/NewItem/NewItem';
-import { Button, Icon, Container, Grid, GridRow, GridColumn } from 'semantic-ui-react';
+
 
 class App extends Component {
   
