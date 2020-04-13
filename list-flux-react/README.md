@@ -4,7 +4,14 @@ This project was developed with React (with the Flux Architeture) and back end w
 
 ## Folders
 <ul>
-  <li>data</li>
+  <li>data
+    <ul>
+      <li>actions</li>
+      <li>dispatcher</li>
+      <li>services</li>
+      <li>stores</li>
+    </ul>
+  </li>
   <li>views
     <ul>
       <li>components</li>
