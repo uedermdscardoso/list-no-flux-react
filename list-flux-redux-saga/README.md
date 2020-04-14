@@ -1,9 +1,20 @@
-This project was developed with React and back end with Java (using Spring Boot).
+## Description
 
-# List no flux
+This project was developed with React (with the Flux Architeture) and back end with Java (using Spring Boot).
 
 ## Folders
 <ul>
-  <li>Services</li>
-  <li>Views / Components</li>
+  <li>data
+    <ul>
+      <li>actions</li>
+      <li>dispatcher</li>
+      <li>services</li>
+      <li>stores</li>
+    </ul>
+  </li>
+  <li>views
+    <ul>
+      <li>components</li>
+    </ul>
+  </li>
 </ul>
